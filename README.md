@@ -1,4 +1,4 @@
-# Patient Management System
+# FastAPI - Patient Management System
 
 This project is a **Patient Management System** built with **FastAPI** and uses a `patients.json` file as the backend storage for patient records. The system allows complete **CRUD operations**—Create, Read, Update, and Delete—on patient data.
 
